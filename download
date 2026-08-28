@@ -1,0 +1,7 @@
+node_modules/
+
+# JANGAN PERNAH commit file/folder di bawah ini — berisi kredensial/data akun kamu
+.env
+session/
+blacklist.json
+config.json

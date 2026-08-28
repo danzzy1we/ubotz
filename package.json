@@ -1,0 +1,14 @@
+{
+  "name": "ubot-jpm",
+  "version": "1.0.0",
+  "description": "Telegram userbot untuk share pesan ke semua grup dengan fitur blacklist",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "input": "^1.0.1",
+    "telegram": "^2.26.22"
+  }
+}
